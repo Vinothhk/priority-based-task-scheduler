@@ -1,4 +1,4 @@
-# pirority-based-task-scheduler
+# priority-based-task-scheduler
 A ROS 2 implementation of Priority Based Task Scheduler method for an Autonomous Robot
 
 ```
